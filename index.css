@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.globe {
+  max-width: 30px;
+  background-color: #F55A5A;
+  margin-right: 8px;
+}
+
+.nav-bar {
+  display: flex;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  background-color: #F55A5A;
+  font-size: 14px;
+  padding: 15px;
+  color: white;
+}
+
+
+.places {
+ display: flex;
+ padding: 60px 50px;
+}
+
+.seperate {
+  margin-left: 20px;
+} 
+
+a {
+  text-decoration: underline;
+  color: grey;
+}
+
+.location {
+  text-transform: uppercase;
+}
